@@ -1,0 +1,9 @@
+{
+    "name": "CU-CIS-1090-PSC-Lab2-ReadingJavascript",
+    "private": true,
+    "scripts": {
+        "Run index.js": "node index.js"
+    },
+    "devDependencies": {},
+    "dependencies": {}
+  }
